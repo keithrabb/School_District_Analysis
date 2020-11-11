@@ -22,3 +22,4 @@
 ![Old_Summary](Resources/Old_Summary.PNG)
 
 ### New Overall Scores Overall Summary
+![New_Summary](Resources/New_summary.PNG)
