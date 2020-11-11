@@ -34,8 +34,9 @@
 
 ### Top Five Change
 - Old Top Five
-
+![Old_Top_5](Resources/Old_Top_5.PNG)
 
 - New Top Five
+![New_Top_5_Single](Resources/New_Top_5_Single.PNG)
 
 
