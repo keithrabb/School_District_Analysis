@@ -27,10 +27,10 @@
 ![New_Summary](Resources/New_Summary.PNG)
 
 ### Old Summary by School
-![Old_District_Summary1](Resources/Old_District_Summary1.PNG)
+![Old_District_Sum](Resources/Old_District_Sum.PNG)
 
 ### New Summary by School
-![New_District_Summary1](Resources/New_District_Summary1.PNG)
+![New_District_Sum](Resources/New_District_Sum.PNG)
 
 ### Top Five Change
 - Old Top Five
