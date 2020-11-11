@@ -6,4 +6,8 @@
 - Average math and reading scores in each grade level at each school
 - School performance based on budget per student
 - School performance based on school size
-- School performance based the school type (Charter, District, 
+- School performance based the school type (Charter, District)
+
+## Task for Challenge
+- Academic dishonesty was reported for Thomas High School ninth graders specifically, reading and math grades.
+- We will remove the ninth grade reading and math scores and refactor the data to uphold the state-testing standards.
