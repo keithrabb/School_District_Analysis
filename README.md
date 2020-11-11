@@ -39,4 +39,5 @@
 - New Top Five
 ![New_Top_5_Single](Resources/New_Top_5_Single.PNG)
 
-
+- The above graphics illustrate the change to the top five before and after removing the THS 9th grade from overall scores.
+- Very little change is detected and the top five were not affected.
