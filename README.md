@@ -20,10 +20,10 @@
 
 ## Scores Compared
 
-### Old Overall Scores Overall Summary
+### Old Scores Overall Summary
 ![Old_Summary](Resources/Old_Summary.PNG)
 
-### New Overall Scores Overall Summary
+### New Scores Overall Summary
 ![New_Summary](Resources/New_Summary.PNG)
 
 ### Old Summary by School
