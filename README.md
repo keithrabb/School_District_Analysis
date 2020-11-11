@@ -16,6 +16,7 @@
 - There were 461 freshman from THS (Out [10]) {not a required calc}.  There were 39170 students in the district with 100% completion of exams, making up a group .01% of the overall students tested.
 - There were 11408 freshman in the district overall increasing the impact of the THS sample removed to .04%.
 - Overall average scores were barely affected (See below Old/New Summary below).
+- Individual School Results were changed dramaticly by removing THS 9th grade boosting their averages, disproportionately propelling them into the top five schools.
 
 ## Scores Compared
 
