@@ -19,6 +19,6 @@
 ## Scores Compared
 
 ### Old Overall Scores Overall Summary
-
+![Old_Summary](Resources/Old_Summary.PNG)
 
 ### New Overall Scores Overall Summary
