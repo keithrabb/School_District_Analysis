@@ -25,4 +25,16 @@
 ### New Overall Scores Overall Summary
 ![New_Summary](Resources/New_Summary.PNG)
 
+### Old Summary by School
+![Old_District_Summary](Resources/Old_District_Summary.PNG)
+
+### New Summary by School
+![New_District_Summary](Resources/New_District_Summary.PNG)
+
+### Top Five Change
+- Old Top Five
+
+
+- New Top Five
+
 
