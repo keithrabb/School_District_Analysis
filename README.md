@@ -15,3 +15,10 @@
 ## Results
 - There were 461 freshman from THS (Out [10]) {not a required calc}.  There were 39170 students in the district with 100% completion of exams, making up a group .01% of the overall students tested.
 - If we were to compare the freshman class to freshman class to other high schools the impact would be more significant.
+
+## Scores Compared
+
+### Old Overall Scores by School Type
+
+
+### New Overall Scores by School Type
