@@ -56,9 +56,9 @@ Below are topics that would warrant further discussion by the school district ad
 - District wide, reading scores trend higher than math scores.  Evaluating the math program may be in order.
 
 ### District Math Scores
-![Dist_Math](Dist_Math)
+![Dist_Math](Resources/Dist_Math)
 
 ### District Readign Scores
-![Dist_Read](Dist_Read)
+![Dist_Read](Resources/Dist_Read)
 
 
