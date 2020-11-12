@@ -45,4 +45,12 @@
 
 ## Comments / Trends
 
+Below are some things that I would want to evaluate or take a look as areas of investigation
+
+- It was interesting to evaluate the math and reading scores accross grades through individual schools.  Those grades did not change much from 9th to 12th grade.  To me, this would indicate systemic growth issues.  One would hope the grades would improve with continued education.
+
+- Charter schools seem to out perform district schools with smaller class sizes, yet spending per student seems to be in the same range.
+- Large district schools
+
+
 
