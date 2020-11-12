@@ -58,7 +58,7 @@ Below are topics that would warrant further discussion by the school district ad
 ### District Math Scores
 ![Dist_Math](Resources/Dist_Math.PNG)
 
-### District Readign Scores
+### District Reading Scores
 ![Dist_Read](Resources/Dist_Read.PNG)
 
 
