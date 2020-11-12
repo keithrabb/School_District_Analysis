@@ -59,6 +59,6 @@ Below are topics that would warrant further discussion by the school district ad
 ![Dist_Math](Dist_Math)
 
 ### District Readign Scores
-![Dist_Read])(Dist_Read)
+![Dist_Read](Dist_Read)
 
 
