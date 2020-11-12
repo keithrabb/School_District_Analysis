@@ -2,7 +2,8 @@
 
 ## Task - Aggregate the data and showcase the trends in school performance through high level snapshot of the school district's key metrics.
 - Over view of metrics for each school
-- Identify top and bottom five schools based on overall passing rates
+- Identify top five schools based on overall passing rates
+- Identify bottom five schools based on overall passing rates
 - Average math and reading scores in each grade level at each school
 - School performance based on budget per student
 - School performance based on school size
@@ -41,3 +42,7 @@
 
 - The above graphics illustrate the change to the top five before and after removing the THS 9th grade from overall scores.
 - Very little change is detected and the top five were not affected.
+
+## Comments / Trends
+
+
