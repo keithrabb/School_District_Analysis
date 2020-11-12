@@ -45,12 +45,20 @@
 
 ## Comments / Trends
 
-Below are some things that I would want to evaluate or take a look as areas of investigation
+Below are topics that would warrant further discussion by the school district administration and may warrant further investigation.
 
 - It was interesting to evaluate the math and reading scores accross grades through individual schools.  Those grades did not change much from 9th to 12th grade.  To me, this would indicate systemic growth issues.  One would hope the grades would improve with continued education.
 
 - Charter schools seem to out perform district schools with smaller class sizes, yet spending per student seems to be in the same range.
-- Large district schools
 
+- Larger district schools typically spend more per student yet have typically lower test scores.
+
+- District wide, reading scores trend higher than math scores.  Evaluating the math program may be in order.
+
+### District Math Scores
+![Dist_Math](Dist_Math)
+
+### District Readign Scores
+![Dist_Read])(Dist_Read)
 
 
